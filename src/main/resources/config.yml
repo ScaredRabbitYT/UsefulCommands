@@ -1,0 +1,9 @@
+
+#How the first line of a plugin message looks
+pluginPrefix: "&x&0&8&4&c&f&b&lU&x&1&b&4&f&f&4&ls&x&2&e&5&2&e&d&le&x&4&1&5&5&e&6&lf&x&5&3&5&8&d&f&lu&x&6&6&5&b&d&8&ll&x&7&9&5&e&d&1&lC&x&8&c&6&2&c&b&lo&x&9&f&6&5&c&4&lm&x&b&2&6&8&b&d&lm&x&c&4&6&b&b&6&la&x&d&7&6&e&a&f&ln&x&e&a&7&1&a&8&ld&x&f&d&7&4&a&1&ls &8&l» "
+#
+reloadedConfig: "&aSuccessfully reloaded the config file!"
+#Error message if the player has not died yet
+noDeathMessage: "&4Error: &cNo last death found!"
+#Teleported player back to their death location
+backToDeathLocation: "&6You got teleported back to your last death location."

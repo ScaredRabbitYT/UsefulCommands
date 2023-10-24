@@ -1,0 +1,9 @@
+name: UsefulCommands
+version: '${project.version}'
+main: net.scaredrabbit.usefulcommands.UsefulCommands
+api-version: '1.20'
+commands:
+  usefulcommands:
+    description: The main command of the plugin
+    aliases:
+      - uc
